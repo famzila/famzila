@@ -14,21 +14,3 @@
 - ⚡ To read my posts and videos, checkout [WebStories Blog](https://famzil.medium.com/) or my [WebStories Vlog](https://www.youtube.com/channel/UCaxr-f9r6P1u7Y7SKFHi12g)
 
 <br>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' height='40' width='40' alt="ts">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<p align="center">
-  
-<br>
-  
-<a href="https://github.com/famzila/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famzila&theme=radical&hide=glsl,python" />
-</a>
-<a href="https://github.com/famzila/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=famzila&show_icons=true&theme=radical&line_height=27" alt="famzila's github stats" />
-</a>
