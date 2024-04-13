@@ -6,7 +6,7 @@
   <a href="https://twitter.com/"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
 
-- 🙋 I'm a passionate web developer and software engineer in France. With 7 years of experience, I worked on several projects. I love technology, innovation, and sharing what I know 💡. I help people build the website they want and need! I'm also a Mentor at [MyJobGlasses](https://www.myjobglasses.com/professionals/5d8c75bb157a1b1273b2158b) ✊ and mother of 3 lovely cats 🐱.
+- 🙋 I'm a passionate software engineer in France and Angualr GDE. With 7 years of experience, I worked on several projects. I love technology, innovation, and sharing what I know 💡. I help people build the website they want and need! I'm also a Mentor at [MyJobGlasses](https://www.myjobglasses.com/professionals/5d8c75bb157a1b1273b2158b) ✊ and mother of 3 lovely cats 🐱.
 
 
 - 📫 The best way to reach me is [Linkedin](https://www.linkedin.com/in/fatima-amzil-9031ba95/). You can also send me a mail at famzil.contact@gmail.com.
